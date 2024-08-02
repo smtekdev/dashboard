@@ -1,0 +1,94 @@
+.about-food-section{
+display: flex;
+margin-top: 20px;
+width: 1000px;
+
+
+}
+
+.left-sec{
+width: 650px;
+margin-top: -100px;
+}
+
+
+.right-sec{
+   
+    width: 300px;
+}
+
+
+.abt-food p{
+
+
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    padding: 10px;
+    margin-top: 40px;
+    margin-left: 30px;
+
+}
+
+.abt-f-heading{
+
+
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    margin-top: 150px;
+    margin-left: 20px;
+}
+
+.abt-main-heading{
+
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    padding-top: 120px;
+    margin-left: 300px;
+}
+
+
+.about-food-imgs{
+    display: flex;
+    justify-content: space-between;
+    height: 150px;
+    width: 800px;
+    margin-top: -350px;
+    margin-left: 10px;
+}
+
+.abt-f-img-1{
+    
+    width: 260px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.abt-f-img-2{
+    width: 260px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.abt-f-img-3{
+
+    width: 260px;
+    height: 200px;
+    border-radius: 15px;
+
+}
+
+
+
+.img-over{
+    background-color: rgba(0, 0, 0, 0.438);
+    width: 260px;
+    height: 200px;
+    border-radius: 15px;
+}

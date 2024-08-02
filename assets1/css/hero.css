@@ -1,0 +1,97 @@
+.hero{
+    background-image: url("../images/hero-bg.JPG");
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    
+     
+}
+
+.over{
+    background-color: rgba(0, 0, 0, 0.363);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+}
+
+
+
+.hero .hero-heading{
+
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+      text-align: center;
+       padding-top: 200px;
+}
+
+
+.anim-text{
+    font-family: "Montserrat", Sans-serif;
+    margin-top: 40px;
+    font-size: 60px;
+    color: #D3D4AE;
+    text-align: center;
+    font-weight: 600;
+}
+
+.hero .hero-discrpt{
+
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 26px;
+    margin-top: 60px;
+    text-align: center;
+}
+
+.hero-btn{
+
+    font-family: "Montserrat", Sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-left: 550px;
+	background-color: #D3D4AE;
+	padding: 15px 40px;
+	border-radius: 50px;
+    border: none;
+    
+}
+
+
+.hero-btn:hover{
+	background-color: transparent;
+	color: #ffffff;
+	border: 1px solid #D3D4AE ;
+	
+}
+
+
+.hero-imgs{
+    
+    display: flex; 
+    justify-content: space-around;
+    margin-top: -200px;
+    align-items: center;
+}
+
+
+
+.hero-left-img{
+    background-image: url(../images/sushi.png);
+    height: 180px;
+     width: 180px;
+     background-size: cover;
+}
+
+.hero-right-img{
+    background-image: url(../images/Slogan\ 2.PNG);
+    height: 150px;
+     width: 180px;
+    background-size: cover;
+    border-radius: 15px;
+}

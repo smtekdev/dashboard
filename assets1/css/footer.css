@@ -1,0 +1,137 @@
+.Footer-section {
+    padding: 50px;
+    display: flex;
+    background-color: #182E49;
+    height: 350px;
+    justify-content: space-between;
+}
+
+.f-logo {
+    
+    width: 400px;
+}
+
+.links {
+    width: 200px;
+
+}
+
+
+.seafood {
+    width: 200px;
+
+}
+
+.follow-us {
+    width: 300px;
+   text-align: center;
+   text-transform: uppercase;
+
+}
+
+
+
+.footer-heading {
+    color: #FFFFFF;
+    font-size: 22px;
+    font-weight: 700;
+    padding-bottom: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    
+}
+
+
+
+.links li a {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    color: #FFFFFF;
+    line-height: 40px;
+    font-weight: 400;
+}
+
+
+.links li a:hover {
+    color: #D3D4AE;
+}
+
+
+.seafood li a {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    color: #FFFFFF;
+    line-height: 40px;
+    font-weight: 400;
+}
+
+
+.seafood li a:hover {
+    color: #D3D4AE;
+}
+
+
+
+
+.footer-discrpt{
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #FFFFFF;
+    padding: 20px;
+}
+
+.codes{
+
+    display: flex;
+    justify-content: space-between; 
+    width: 300px;
+    height: 150px;
+}
+
+.T-QR{
+
+
+    width: 125px;
+    height: 125px;
+}
+
+
+.W-QR{
+   
+    width: 125px;
+    height: 125px;
+}
+
+
+.icons{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon-img img{
+    border-radius: 50%;
+     width: 40px; 
+     height: 40px;
+}
+
+.copyright{
+    background-color: #182E49;
+    height: 30px;
+    border-top: 1px solid  #FFFFFF;;
+}
+
+.copyright-p{
+
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 5px;
+    text-align: center;
+    align-items: center;
+    
+}

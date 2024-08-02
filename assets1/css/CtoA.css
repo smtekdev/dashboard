@@ -1,0 +1,79 @@
+.CtoA-section{
+    /* background-image: linear-gradient(180deg, #182E49 0%, #182E49C7 100%); */
+    margin-top: 160px;
+    height: 700px;
+   padding: 50px;
+   
+
+}
+
+
+.CtoA-flex-div{
+    display: flex;
+    height: 500px;
+    justify-content: center;
+    margin-top: 10px;
+
+}
+
+.CtoA-left-sec{
+    background-image: url(../images/CtoA-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 5px 8px 15px 0px rgba(0, 0, 0, 0.5);
+    width: 600px;
+    height: 350px;
+    margin-top: 30px;
+    
+    
+}
+
+.CtoA-right-sec{
+
+  
+    border-radius: 30px;
+    width: 600px;
+    height: 500px;
+   padding: 60px;
+}
+
+.CtoA-right-sec .ctoa-heading{
+
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+   
+}
+
+.CtoA-descrpt{
+
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-top: 30px;
+}
+
+.CtoA-btn{
+ 
+    font-family: "Montserrat", Sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+     margin-top: 30px;
+     background-color: #D3D4AE;
+     padding: 15px 40px;
+     border-radius: 50px;
+     border: none;
+     
+}
+
+.CtoA-btn:hover{
+	background-color: transparent;
+	color: #000000;
+	border: 2px solid #D3D4AE ;
+	
+}
