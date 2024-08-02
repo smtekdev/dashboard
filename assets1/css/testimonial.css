@@ -1,0 +1,111 @@
+.testimonial-section{
+    background-image: url(../images/testi-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 70px;
+    /* background-color: #a3a3a3; */
+    height: 600px;
+}
+
+
+.t-heading{
+    text-align: center;
+    padding-top: 100px;
+    color: #ffff;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.t-discrpt{ 
+
+    color: #fff;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 17px;
+    font-weight: 400;  
+    text-align: center;
+    padding-top: 40px;
+}
+
+
+
+.testimonial{
+    margin: 25px;
+    padding: 10px;
+    justify-content: space-around;
+    display: flex;
+    width: 1200px;
+    height: 350px;
+    border-radius: 15px;
+  
+   
+}
+
+.test{
+   
+    background-color: #fff;
+    height: 250px;
+    width: 550px;
+    border:4px solid #D3D4AE;
+    border-radius: 10px;
+    
+}
+
+.test .test-p{
+    font-style: italic;
+    padding: 20px;
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+}
+
+
+ 
+.name-box{
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+   
+   
+}
+
+
+.name{
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 10px;
+}
+
+.prof{
+    color: #A3ABAF;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    padding-left: 10px;
+}
+
+.name-box .test-img-1{
+
+    background-image: url(../images/test-1.jpg);
+     width: 100px;
+      height: 100px;
+       background-size: cover;
+        border-radius: 15px;
+ }
+ 
+
+ 
+ .name-box .test-img-2{
+
+    background-image: url(../images/test-2.jpg);
+     width: 100px;
+      height: 100px;
+       background-size: cover;
+        border-radius: 15px;
+ }
+ 

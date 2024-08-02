@@ -53,6 +53,18 @@
 	padding: 12px 30px;
 	border-radius: 50px;
     border: none;
-
   
+}
+
+.price{
+    font-family: "Montserrat", Sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: black;
+    text-align: center;
+}
+
+
+.stars{
+    text-align: center;
 }
